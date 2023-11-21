@@ -1,0 +1,19 @@
+{
+  "title": "Chat Companion",
+  "buttons": {
+    "maximize": "Fullscreen",
+    "minimize": "Minimize",
+    "close": "Close"
+  },
+  "footer": {
+    "message": "Companions may display inaccurate or offensive information that doesn't represent Hitachi Vantara's views.",
+    "link": "AI Companions Privacy Notice"
+  },
+  "messages": {
+    "default": "Sorry the companion is unavailable right now."
+  },
+  "form": {
+    "submit": "Submit",
+    "placeholder": "Enter text"
+  }
+}

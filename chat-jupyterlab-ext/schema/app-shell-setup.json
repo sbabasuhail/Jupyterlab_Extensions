@@ -1,0 +1,37 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "AppShell Configuration",
+  "description": "Configure AppShell bundles locations.",
+  "type": "object",
+  "definitions": {
+    "packageItem": {
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "bundleUrl": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false,
+      "type": "object"
+    }
+  },
+  "properties": {
+    "packages": {
+      "title": "AppShell packages",
+      "description": "List of AppShell bundles to configure.",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/packageItem"
+      },
+      "default": [
+        {
+          "id": "@hv-apps/genai-companion",
+          "bundleUrl": "http://localhost:4173/"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false
+}
