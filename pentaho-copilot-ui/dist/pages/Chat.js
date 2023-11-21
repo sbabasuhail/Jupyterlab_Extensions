@@ -1,0 +1,1 @@
+import{j as r}from"../assets/context-73c790cf.js";import{w as t}from"../assets/Provider-3053bf1d.js";import{C as o}from"../assets/ChatContext-45f4754d.js";import"react";import"@emotion/cache";import"../assets/i18nextBrowserLanguageDetector-f736ff85.js";import"@hitachivantara/app-shell-shared";const i=()=>r(o,{children:r("h1",{})}),C=t(i);export{C as default};

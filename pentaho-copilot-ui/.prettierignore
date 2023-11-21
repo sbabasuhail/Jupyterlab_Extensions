@@ -1,0 +1,13 @@
+node_modules
+build
+dist
+dist-ssr
+coverage
+logs
+hcp.html
+sample-app
+
+# Editor directories
+.vscode
+.idea
+.DS_Store

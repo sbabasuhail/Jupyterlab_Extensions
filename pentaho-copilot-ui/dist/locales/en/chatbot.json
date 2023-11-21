@@ -1,0 +1,45 @@
+{
+  "page": {
+    "title": "AI Companions",
+    "threads": "Threads"
+  },
+  "section": {
+    "title": "Project section"
+  },
+  "buttons": {
+    "maximize": "Minimize/Maximize",
+    "upload": "Upload",
+    "stop": "Stop Generation",
+    "submit": "Submit",
+    "newChat": "New Chat",
+    "threads": "View Old Threads",
+    "tooltips": {
+      "submit": "Submit",
+      "upload": "Upload file (.txt, .csv, .pdf, .html)",
+      "stop": "Stop generating",
+      "maximize": "Fullscreen",
+      "minimize": "Minimize",
+      "close": "Close"
+    }
+  },
+  "tabs": {
+    "chat": "Chat",
+    "recommendations": "Recommendations",
+    "files": "Files"
+  },
+  "footer": {
+    "message": "Companions may display inaccurate or offensive information that doesn’t represent Hitachi Vantara’s views.",
+    "link": "AI Companions Privacy Notice"
+  },
+  "messages": {
+    "default": "Sorry the companion is unavailable right now"
+  },
+  "form": {
+    "placeholder": "Enter text"
+  },
+  "files": {
+    "sizeError": "This file exceeds 1MB",
+    "typeError": "Allowed formats are .txt, .csv, .pdf, .html",
+    "uploadError": "File upload failed"
+  }
+}
